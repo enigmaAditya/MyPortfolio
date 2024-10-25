@@ -2,7 +2,7 @@
 
 ### Software Engineering Professional
 
-📍 New Delhi, India | 📞 +91 9304806108 | 📧 adityakumar6002ad@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/aditya-kumar-a34a6a328/)
+📍 Bihar, India | 📞 +91 9304806108 | 📧 adityakumar6002ad@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/aditya-kumar-a34a6a328/)
 
 ## About Me 🌟
 
