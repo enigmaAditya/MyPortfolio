@@ -22,8 +22,8 @@ Built an interactive web application for visualizing sorting algorithms using **
 ## Technical Skills 🧰
 
 * **Programming Languages:** Java, Python, C++
-* **Web Development:** HTML/CSS, JavaScript, React.js
-* **Database Systems:** SQL, MongoDB
+* **Web Development:** HTML/CSS, JavaScript
+* **Database Systems:** SQL
 * **Version Control:** Git
 * **Operating Systems:** Windows, Linux
 * **Languages:** English, Hindi
